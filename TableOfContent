@@ -1,0 +1,26 @@
+Week 1 & 2 Content
+Identify data & analytics solution approach, Creating a solution architecture, , Hands-on exercise
+Data Storytelling: Understanding Different Types Of Data Visualizations, Information Design Principles, How to create a data story
+"
+Design:  Overview of wireframing data applications
+"
+Project Management: Project Management Life Cycle, Team management, Agile & Waterfall methodology
+"Work on the Case study covering the below areas
+-Identify problem statement
+-Hypothesis Formulation
+-Exploratory data analysis using excel
+-Present the insights as a data story"
+
+Statistical Analysis: Application of Hypothesis testing & Confidence intervals, Z-tests, t-tests, chi-square tests, ANOVA
+NLP: Text Classification, Doc Clustering, Sentiment analysis, OneShot/Few Shot learning - Hands-on Exercise
+Computer Vision : Object detection & Recognition,  OCR Modeling- Hands-on Exercise 
+GenAI / LLM Model architectures, Prompt engg., Fine tuning, RAG, Text Embedding, Vector DB setup, Model evaluation- Hands-on Exercise
+ML Model Retraining, Performance Tuning, Model Deployment exercises using Python
+
+Week 3:
+Requirements Understanding and life cycle-Requirements Gathering Techniques, Documentation (BRD, FRD, SRS), Requirement Validation and Verification, Traceability Matrix, Agile Requirements (User Stories, Epics, Backlogs)
+QA lifecycle- Software Testing Life Cycle (STLC), Types of Testing (Unit, Integration, System, Acceptance, Regression), Test Planning and Strategy
+Test Automation Tools and Frameworks, Bug Life Cycle and Management
+Design Patterns in Python, SOLID Principles, Writing Readable and Maintainable Code
+Azure / AWS Cloud Fundamentals- Core Services (Compute, Storage, Database, Networking), Identity and Access Management (IAM)
+Cost Management and Pricing, Monitoring and Logging, High Availability and Disaster Recovery
